@@ -1,0 +1,12 @@
+reference,segment,nextclade,nextclade_tag
+monkeypox,ON563414.2,hMPXV,
+infl_a_h1n1_2019,A__WISCONSIN__588__2019__H1N1_HA,flu_h1n1pdm_ha,
+infl_a_h1n1_2019,A__WISCONSIN__588__2019__H1N1_NA,flu_h1n1pdm_na,
+infl_a_h3n2_2021,A__DARWIN__6__2021__H3N2_HA,flu_h3n2_ha,
+infl_a_h3n2_2021,A__DARWIN__6__2021__H3N2_NA,flu_h3n2_na,
+infl_b_victoria_2021,B__AUSTRIA__1359417__2021__VICTORIA_HA,flu_vic_ha,
+infl_b_victoria_2021,B__AUSTRIA__1359417__2021__VICTORIA_NA,flu_vic_na,
+infl_b_yamagata_2013,B__PHUKET__3073__2013__YAMAGATA_HA,flu_yam_ha,
+rsv_a_2017,hRSV__A__England__397__2017:EPI_ISL_412866:2017-01-01,rsv_a,
+rsv_b_2019,hRSV__B__Australia__VIC-RCH056__2019:EPI_ISL_1653999:2019-03-04,rsv_b,
+sars_cov_2,NC_045512.2,sars-cov-2,
