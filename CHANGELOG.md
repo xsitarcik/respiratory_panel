@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/xsitarcik/respiratory_panel/compare/v1.0.0...v1.0.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* reorganized panel directory, seqs are moved into separate subdir ([5bf3fff](https://github.com/xsitarcik/respiratory_panel/commit/5bf3fff02995eff9b36c1267ee123d171be0da08))
+
 ## 1.0.0 (2023-07-14)
 
 
