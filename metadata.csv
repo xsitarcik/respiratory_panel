@@ -1,103 +1,103 @@
 reference_name,virus
-sars_cov_2,SARS-CoV-2
+aichivirus_A,Aichivirus A
+aichivirus_B,Aichivirus B
+andes_virus,Andes virus
+bayou_virus,Bayou virus
+chapare_virus,Chapare virus
+chikungunya_virus,Chikungunya virus
+coxsackievirus_A,Coxsackievirus A
+coxsackievirus_B,Coxsackievirus B
+crimean-congo_hemorrhagic_fever_virus,Crimean-Congo haemorrhagic fever virus
+dengue_virus_1,Dengue virus 1
+dengue_virus_2,Dengue virus 2
+dengue_virus_3,Dengue virus 3
+dengue_virus_4,Dengue virus 4
+dobrava_virus,Dobrava virus
+eastern_equine_encephalitis_virus,Eastern equine encephalitis virus
+ebola_virus,Ebola virus
+guanarito_virus,Guanarito virus
+hantaan_virus,Hantaan virus
+hendra_virus,Hendra virus
+hepatitis_A_virus,Hepatitis A virus
+hepatitis_B_virus,Hepatitis B virus
+hepatitis_C_virus,Hepatitis C virus
+hepatitis_E_virus,Hepatitis D virus
+human_adenovirus_A,Human adenovirus A
+human_adenovirus_B,Human adenovirus B
+human_adenovirus_C,Human adenovirus C
+human_adenovirus_D,Human adenovirus D
+human_adenovirus_E,Human adenovirus E
+human_adenovirus_F,Human adenovirus F
+human_astrovirus,Human astrovirus
+human_coronavirus_229E,Human coronavirus 229E
+human_coronavirus_HKU1,Human coronavirus HKU1
+human_coronavirus_NL63,Human coronavirus NL63
+human_coronavirus_OC43,Human coronavirus OC43
+human_enterovirus_A,Human enterovirus A
+human_enterovirus_B,Human enterovirus B
+human_enterovirus_C,Human enterovirus C
+human_enterovirus_D,Human enterovirus D
+human_enterovirus_J,Human enterovirus J
+human_immunodeficiency_virus_1,Human immunodeficiency virus 1
+human_immunodeficiency_virus_2,Human immunodeficiency virus 2
+human_metapneumovirus,Human metapneumovirus
+human_papillomavirus,Human papillomavirus
+human_parainfluenza_virus_2,Human parainfluenza virus 2
+human_parainfluenza_virus_4,Human parainfluenza virus 4
+human_parvovirus_B19,Human parvovirus B19
+infl_a_h1n1_2019,Influenza A - H1N1
+infl_a_h3n2_2021,Influenza A - H3N2
+infl_b_victoria_2021,Influenza B - Victoria
+infl_b_yamagata_2013,Influenza B - Yamagata
+japanese_encephalitis_virus,Japanese encephalitis virus
+junin_virus,Junin virus
+kyasanur_forest_disease_virus,Kyasanur forest disease virus
+lassa_virus,Lassa virus
+lujo_virus,Lujo virus
+machupo_virus,Machupo virus
+marburg_virus,Marburg virus
+mers_cov,MERS-CoV
+monkeypox,Monkeypox
+nipah_virus,Nipah virus
+norovirus,Norovirus
+omsk_hemorrhagic_fever_virus,Omsk hemorrhagic fever virus
+parechovirus_A,Parechovirus A
+parechovirus_B-ljungan_virus,Parechovirus B - ljungan virus
+parechovirus_C-sebokele_virus,Parechovirus C - sebokele virus
+poliovirus,Poliovirus
+polyomavirus,Polyomavirus
+puumala_virus,Puumala virus
+rhinovirus_A,Rhinovirus A
+rhinovirus_B,Rhinovirus B
+rhinovirus_C,Rhinovirus C
+rift_valley_fever_virus,Rift Valley fever virus
+rotavirus_A,Rotavirus A
+rotavirus_B,Rotavirus B
+rotavirus_C,Rotavirus C
+rotavirus_D,Rotavirus D
+rotavirus_F,Rotavirus F
+rotavirus_G,Rotavirus G
+rotavirus_H,Rotavirus H
+rotavirus_I,Rotavirus I
+rotavirus_J,Rotavirus J
 rsv_a_2017,RSV A
 rsv_b_2019,RSV B
-infl_a_h1n1_2019.fa,Influenza A - H1N1
-infl_a_h3n2_2021.fa,Influenza A - H3N2
-infl_b_victoria_2021.fa,Influenza B - Victoria
-infl_b_yamagata_2013.fa,Influenza B - Yamagata
-monkeypox,Monkeypox
-aichivirus_A.fa,Aichivirus A
-aichivirus_B.fa,Aichivirus B
-andes_virus.fa,Andes virus
-bayou_virus.fa,Bayou virus
-chapare_virus.fa,Chapare virus
-chikungunya_virus.fa,Chikungunya virus
-coxsackievirus_A.fa,Coxsackievirus A
-coxsackievirus_B.fa,Coxsackievirus B
-crimean-congo_hemorrhagic_fever_virus.fa,Crimean-Congo haemorrhagic fever virus
-dengue_virus_1.fa,Dengue virus 1
-dengue_virus_2.fa,Dengue virus 2
-dengue_virus_3.fa,Dengue virus 3
-dengue_virus_4.fa,Dengue virus 4
-dobrava_virus.fa,Dobrava virus
-eastern_equine_encephalitis_virus.fa,Eastern equine encephalitis virus
-ebola_virus.fa,Ebola virus
-guanarito_virus.fa,Guanarito virus
-hantaan_virus.fa,Hantaan virus
-hendra_virus.fa,Hendra virus
-hepatitis_A_virus.fa,Hepatitis A virus
-hepatitis_B_virus.fa,Hepatitis B virus
-hepatitis_C_virus.fa,Hepatitis C virus
-hepatitis_E_virus.fa,Hepatitis D virus
-human_adenovirus_A.fa,Human adenovirus A
-human_adenovirus_B.fa,Human adenovirus B
-human_adenovirus_C.fa,Human adenovirus C
-human_adenovirus_D.fa,Human adenovirus D
-human_adenovirus_E.fa,Human adenovirus E
-human_adenovirus_F.fa,Human adenovirus F
-human_astrovirus.fa,Human astrovirus
-human_coronavirus_229E.fa,Human coronavirus 229E
-human_coronavirus_HKU1.fa,Human coronavirus HKU1
-human_coronavirus_NL63.fa,Human coronavirus NL63
-human_coronavirus_OC43.fa,Human coronavirus OC43
-human_enterovirus_A.fa,Human enterovirus A
-human_enterovirus_B.fa,Human enterovirus B
-human_enterovirus_C.fa,Human enterovirus C
-human_enterovirus_D.fa,Human enterovirus D
-human_enterovirus_J.fa,Human enterovirus J
-human_immunodeficiency_virus_1.fa,Human immunodeficiency virus 1
-human_immunodeficiency_virus_2.fa,Human immunodeficiency virus 2
-human_metapneumovirus.fa,Human metapneumovirus
-human_papillomavirus.fa,Human papillomavirus
-human_parainfluenza_virus_2.fa,Human parainfluenza virus 2
-human_parainfluenza_virus_4.fa,Human parainfluenza virus 4
-human_parvovirus_B19.fa,Human parvovirus B19
-japanese_encephalitis_virus.fa,Japanese encephalitis virus
-junin_virus.fa,Junin virus
-kyasanur_forest_disease_virus.fa,Kyasanur forest disease virus
-lassa_virus.fa,Lassa virus
-lujo_virus.fa,Lujo virus
-machupo_virus.fa,Machupo virus
-marburg_virus.fa,Marburg virus
-mers_cov.fa,MERS-CoV
-nipah_virus.fa,Nipah virus
-norovirus.fa,Norovirus
-omsk_hemorrhagic_fever_virus.fa,Omsk hemorrhagic fever virus
-parechovirus_A.fa,Parechovirus A
-parechovirus_B-ljungan_virus.fa,Parechovirus B - ljungan virus
-parechovirus_C-sebokele_virus.fa,Parechovirus C - sebokele virus
-poliovirus.fa,Poliovirus
-polyomavirus.fa,Polyomavirus
-puumala_virus.fa,Puumala virus
-rhinovirus_A.fa,Rhinovirus A
-rhinovirus_B.fa,Rhinovirus B
-rhinovirus_C.fa,Rhinovirus C
-rift_valley_fever_virus.fa,Rift Valley fever virus
-rotavirus_A.fa,Rotavirus A
-rotavirus_B.fa,Rotavirus B
-rotavirus_C.fa,Rotavirus C
-rotavirus_D.fa,Rotavirus D
-rotavirus_F.fa,Rotavirus F
-rotavirus_G.fa,Rotavirus G
-rotavirus_H.fa,Rotavirus H
-rotavirus_I.fa,Rotavirus I
-rotavirus_J.fa,Rotavirus J
-rubella_virus.fa,Rubella virus
-sabia_virus.fa,Sabia virus
-salivirus.fa,Salivirus
-sangassou_virus.fa,Sangassou virus
-sapovirus.fa,Sapovirus
-sars_cov.fa,SARS-CoV
-seoul_virus.fa,Seoul virus
-simian_adenovirus.fa,Simian adenovirus
-sin_nombre_virus.fa,Sin Nombre virus
-tick-borne_encephalitis_virus.fa,Tick-borne encephalitis virus
-torque_teno_virus.fa,Torque teno virus
-tula_virus.fa,Tula virus
-variola_virus.fa,Variola virus
-venezuelan_equine_encephalitis_virus.fa,Venezuelan equine encephalitis virus
-western_equine_encephalomyelitis_virus.fa,Western equine encephalitis virus
-west_nile_virus.fa,West Nile virus
-yellow_fever_virus.fa,Yellow fever virus
-zika_virus.fa,Zika virus
+rubella_virus,Rubella virus
+sabia_virus,Sabia virus
+salivirus,Salivirus
+sangassou_virus,Sangassou virus
+sapovirus,Sapovirus
+sars_cov_2,SARS-CoV-2
+sars_cov,SARS-CoV
+seoul_virus,Seoul virus
+simian_adenovirus,Simian adenovirus
+sin_nombre_virus,Sin Nombre virus
+tick-borne_encephalitis_virus,Tick-borne encephalitis virus
+torque_teno_virus,Torque teno virus
+tula_virus,Tula virus
+variola_virus,Variola virus
+venezuelan_equine_encephalitis_virus,Venezuelan equine encephalitis virus
+western_equine_encephalomyelitis_virus,Western equine encephalitis virus
+west_nile_virus,West Nile virus
+yellow_fever_virus,Yellow fever virus
+zika_virus,Zika virus
