@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/xsitarcik/respiratory_panel/compare/v1.0.1...v2.0.0) (2023-08-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* added accession and version_tag
+
+### Features
+
+* added accession and version_tag ([40e2681](https://github.com/xsitarcik/respiratory_panel/commit/40e26819cf4acc2031eb4816abdbbdd21bf4f4d4))
+
 ## [1.0.1](https://github.com/xsitarcik/respiratory_panel/compare/v1.0.0...v1.0.1) (2023-07-16)
 
 
