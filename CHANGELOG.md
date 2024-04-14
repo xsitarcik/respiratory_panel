@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.1.0...v2.2.0) (2024-04-14)
+
+
+### Features
+
+* updated for nextclade v3 ([ca39ad8](https://github.com/xsitarcik/respiratory_panel/commit/ca39ad8e6f4e33b2fcdd095a6d572193f98dca01))
+
 ## [2.1.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.0.0...v2.1.0) (2024-02-12)
 
 
