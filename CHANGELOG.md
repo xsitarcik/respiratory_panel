@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/xsitarcik/respiratory_panel/compare/v2.2.0...v2.2.1) (2024-04-22)
+
+
+### Bug Fixes
+
+* bumped new versions of refs ([f535aae](https://github.com/xsitarcik/respiratory_panel/commit/f535aae8b054e2bc4437933930bf0b6d51473de5))
+
 ## [2.2.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.1.0...v2.2.0) (2024-04-14)
 
 
