@@ -8,6 +8,14 @@ Surveillance panel of viral reference sequences
 - `metadata.csv` - contains `curated` names for reference fasta sequences
 - `nextclade_mapping.csv` - contains mapping of reference names and its segments onto nextclade tags
 
+## Useful
+
+Get list of current datasets and versions:
+
+```sh
+nextclade data list
+```
+
 ## Development
 
 First, clone the repository:
