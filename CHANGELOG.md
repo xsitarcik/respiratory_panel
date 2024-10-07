@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.2.1...v2.3.0) (2024-10-07)
+
+
+### Features
+
+* west nile split and bump ([b55e009](https://github.com/xsitarcik/respiratory_panel/commit/b55e009e53b8d4106235527419935593c49821c5))
+
 ## [2.2.1](https://github.com/xsitarcik/respiratory_panel/compare/v2.2.0...v2.2.1) (2024-04-22)
 
 
