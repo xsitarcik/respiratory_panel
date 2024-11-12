@@ -28,17 +28,11 @@ def build_metadata(result_file: str):
 
     # get the name of the reference files
     reference_names = [f.split(".")[0] for f in reference_files]
-
-    # cleanup names using spaces instead of underscores
     reference_new_names = [f.replace("_", " ") for f in reference_names]
-
-    # capitalize first letter
     reference_new_names = [f.capitalize() for f in reference_new_names]
 
     # create metadata csv table with reference names and new names
     metadata = zip(reference_names, reference_new_names)
-
-    # write metadata to csv
     with open(result_file, "w", newline='') as f:
         f.write("reference_name,virus\n")
         for row in metadata:
