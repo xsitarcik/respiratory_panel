@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.3.0...v2.4.0) (2024-11-12)
+
+
+### Features
+
+* reworked panel for illumina kit ([83ff06c](https://github.com/xsitarcik/respiratory_panel/commit/83ff06cc4b4610ad2313743522a5e73d4a074bcc))
+* updated nextclade to the november versions ([e992fb6](https://github.com/xsitarcik/respiratory_panel/commit/e992fb6318578e5e6f02c96f66136d09c59f9f90))
+
 ## [2.3.0](https://github.com/xsitarcik/respiratory_panel/compare/v2.2.1...v2.3.0) (2024-10-07)
 
 
