@@ -24,12 +24,12 @@ ebola_virus,Ebola virus
 echovirus_E4,Echovirus E4
 enterovirus_A,Enterovirus A
 enterovirus_B,Enterovirus B
-enterovirus_C-poliovirus,Enterovirus C-poliovirus
+enterovirus_C-poliovirus,Enterovirus C - poliovirus
 enterovirus_D,Enterovirus D
-epstein-barr_virus,Epstein-barr virus
-equine_encephalitis_virus_eastern,Equine encephalitis virus eastern
-equine_encephalitis_virus_venezuelan,Equine encephalitis virus venezuelan
-equine_encephalomyelitis_virus_western,Equine encephalomyelitis virus western
+epstein-barr_virus,Epstein-Barr virus
+equine_encephalitis_virus_eastern,Eastern equine encephalitis virus
+equine_encephalitis_virus_venezuelan,Venezuelan equine encephalitis virus
+equine_encephalomyelitis_virus_western,Western equine encephalomyelitis virus
 guanarito_virus,Guanarito virus
 hantaan_virus,Hantaan virus
 hantavirus_Z10,Hantavirus Z10
@@ -67,11 +67,11 @@ influenza_a_h1n1_2019,Influenza A - H1N1
 influenza_a_h3n2_2021,Influenza A - H3N2
 influenza_b_victoria_2021,Influenza B - Victoria
 influenza_b_yamagata_2013,Influenza B - Yamagata
-jamestown_canyon_virus,Jamestown canyon virus
+jamestown_canyon_virus,Jamestown Canyon virus
 japanese_encephalitis_virus,Japanese encephalitis virus
 junin_virus,Junin virus
-kyasanur_forest_disease_virus,Kyasanur forest disease virus
-la_crosse_virus,La crosse virus
+kyasanur_forest_disease_virus,Kyasanur Forest disease virus
+la_crosse_virus,La Crosse virus
 lassa_virus,Lassa virus
 lloviu_virus,Lloviu virus
 lujo_virus,Lujo virus
@@ -87,7 +87,7 @@ mers_cov,MERS-CoV
 metapneumovirus,Metapneumovirus
 monkeypox_virus,Monkeypox
 mumps_virus,Mumps virus
-murray_valley_encephalitis_virus,Murray valley encephalitis virus
+murray_valley_encephalitis_virus,Murray Valley encephalitis virus
 nipah_virus,Nipah virus
 norovirus,Norovirus
 omsk_hemorrhagic_fever_virus,Omsk hemorrhagic fever virus
@@ -98,13 +98,13 @@ parechovirus_B-ljungan_virus,Parechovirus B - ljungan virus
 parechovirus_C-sebokele_virus,Parechovirus C - sebokele virus
 polyomavirus,Polyomavirus
 powassan_virus,Powassan virus
-punta_toro_virus,Punta toro virus
+punta_toro_virus,Punta Toro virus
 puumala_virus,Puumala virus
 rhinovirus_A,Rhinovirus A
 rhinovirus_B,Rhinovirus B
 rhinovirus_C,Rhinovirus C
 rift_valley_fever_virus,Rift Valley fever virus
-ross_river_virus,Ross river virus
+ross_river_virus,Ross River virus
 rotavirus_A,Rotavirus A
 rotavirus_B,Rotavirus B
 rotavirus_C,Rotavirus C
@@ -114,19 +114,19 @@ rsv_b_2019,RSV B
 rubella_virus,Rubella virus
 sabia_virus,Sabia virus
 salivirus_A,Salivirus A
-sandfly_fever_sicilian_virus,Sandfly fever sicilian virus
+sandfly_fever_sicilian_virus,Sandfly fever Sicilian virus
 sangassou_virus,Sangassou virus
 sapovirus,Sapovirus
 sars_cov,SARS-CoV
 sars_cov_2,SARS-CoV-2
-semliki_forest_virus,Semliki forest virus
+semliki_forest_virus,Semliki Forest virus
 seoul_virus,Seoul virus
 severe_fever_with_thrombocytopenia_syndrome_virus,Severe fever with thrombocytopenia syndrome virus
 sin_nombre_virus,Sin Nombre virus
 sindbis_virus,Sindbis virus
 snowshoe_hare_virus,Snowshoe hare virus
 sosuga_virus,Sosuga virus
-st_louis_encephalitis_virus,St louis encephalitis virus
+st_louis_encephalitis_virus,St Louis encephalitis virus
 tacheng_tick_virus_2,Tacheng tick virus 2
 tahyna_virus,Tahyna virus
 tick-borne_encephalitis_virus,Tick-borne encephalitis virus
