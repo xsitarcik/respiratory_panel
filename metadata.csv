@@ -1,103 +1,141 @@
 reference_name,virus
-aichivirus_A,Aichivirus A
-aichivirus_B,Aichivirus B
+adeno-associated_virus_2,Adeno-associated virus 2
+aichivirus_A1,Aichivirus A1
+aigai_virus,Aigai virus
 andes_virus,Andes virus
+astrovirus,Astrovirus
 bayou_virus,Bayou virus
+bombali_virus,Bombali virus
+bourbon_virus,Bourbon virus
+cache_valley_virus,Cache valley virus
+california_encephalitis_virus,California encephalitis virus
 chapare_virus,Chapare virus
 chikungunya_virus,Chikungunya virus
-coxsackievirus_A,Coxsackievirus A
-coxsackievirus_B,Coxsackievirus B
+colorado_tick_fever_virus,Colorado tick fever virus
+coxsackievirus_A2,Coxsackievirus A2
+coxsackievirus_B3,Coxsackievirus B3
 crimean-congo_hemorrhagic_fever_virus,Crimean-Congo haemorrhagic fever virus
 dengue_virus_1,Dengue virus 1
 dengue_virus_2,Dengue virus 2
 dengue_virus_3,Dengue virus 3
 dengue_virus_4,Dengue virus 4
 dobrava_virus,Dobrava virus
-eastern_equine_encephalitis_virus,Eastern equine encephalitis virus
 ebola_virus,Ebola virus
+echovirus_E4,Echovirus E4
+enterovirus_A,Enterovirus A
+enterovirus_B,Enterovirus B
+enterovirus_C-poliovirus,Enterovirus C-poliovirus
+enterovirus_D,Enterovirus D
+epstein-barr_virus,Epstein-barr virus
+equine_encephalitis_virus_eastern,Equine encephalitis virus eastern
+equine_encephalitis_virus_venezuelan,Equine encephalitis virus venezuelan
+equine_encephalomyelitis_virus_western,Equine encephalomyelitis virus western
 guanarito_virus,Guanarito virus
 hantaan_virus,Hantaan virus
-hendra_virus,Hendra virus
-hepatitis_A_virus,Hepatitis A virus
-hepatitis_B_virus,Hepatitis B virus
-hepatitis_C_virus,Hepatitis C virus
-hepatitis_E_virus,Hepatitis D virus
+hantavirus_Z10,Hantavirus Z10
+heartland_virus,Heartland virus
+hendra_hanipavirus,Hendra hanipavirus
+hepatovirus_A,Hepatovirus A
+hepatovirus_B,Hepatovirus B
+hepatovirus_C,Hepatovirus C
+hepatovirus_D,Hepatovirus D
+hepatovirus_E,Hepatovirus E
 human_adenovirus_A,Human adenovirus A
 human_adenovirus_B,Human adenovirus B
 human_adenovirus_C,Human adenovirus C
 human_adenovirus_D,Human adenovirus D
 human_adenovirus_E,Human adenovirus E
 human_adenovirus_F,Human adenovirus F
-human_astrovirus,Human astrovirus
+human_adenovirus_G,Human adenovirus G
+human_bocavirus,Human bocavirus
 human_coronavirus_229E,Human coronavirus 229E
 human_coronavirus_HKU1,Human coronavirus HKU1
 human_coronavirus_NL63,Human coronavirus NL63
 human_coronavirus_OC43,Human coronavirus OC43
-human_enterovirus_A,Human enterovirus A
-human_enterovirus_B,Human enterovirus B
-human_enterovirus_C,Human enterovirus C
-human_enterovirus_D,Human enterovirus D
-human_enterovirus_J,Human enterovirus J
+human_cytomegalovirus,Human cytomegalovirus
+human_herpesvirus_1,Human herpesvirus 1
+human_herpesvirus_2,Human herpesvirus 2
 human_immunodeficiency_virus_1,Human immunodeficiency virus 1
 human_immunodeficiency_virus_2,Human immunodeficiency virus 2
-human_metapneumovirus,Human metapneumovirus
 human_papillomavirus,Human papillomavirus
+human_parainfluenza_virus_1,Human parainfluenza virus 1
 human_parainfluenza_virus_2,Human parainfluenza virus 2
+human_parainfluenza_virus_3,Human parainfluenza virus 3
 human_parainfluenza_virus_4,Human parainfluenza virus 4
 human_parvovirus_B19,Human parvovirus B19
-infl_a_h1n1_2022,Influenza A - H1N1
-infl_a_h3n2_2021,Influenza A - H3N2
-infl_b_victoria_2021,Influenza B - Victoria
-infl_b_yamagata_2013,Influenza B - Yamagata
+influenza_a_h1n1_2019,Influenza A - H1N1
+influenza_a_h3n2_2021,Influenza A - H3N2
+influenza_b_victoria_2021,Influenza B - Victoria
+influenza_b_yamagata_2013,Influenza B - Yamagata
+jamestown_canyon_virus,Jamestown canyon virus
 japanese_encephalitis_virus,Japanese encephalitis virus
 junin_virus,Junin virus
 kyasanur_forest_disease_virus,Kyasanur forest disease virus
+la_crosse_virus,La crosse virus
 lassa_virus,Lassa virus
+lloviu_virus,Lloviu virus
 lujo_virus,Lujo virus
+lymphocytic_choriomeningitis_virus,Lymphocytic choriomeningitis virus
+lyssavirus_rabies,Lyssavirus rabies
 machupo_virus,Machupo virus
+mamastrovirus,Mamastrovirus
 marburg_virus,Marburg virus
+mayaro_virus,Mayaro virus
+measles_virus,Measles virus
+menangle_virus,Menangle virus
 mers_cov,MERS-CoV
-monkeypox,Monkeypox
+metapneumovirus,Metapneumovirus
+monkeypox_virus,Monkeypox virus
+mumps_virus,Mumps virus
+murray_valley_encephalitis_virus,Murray valley encephalitis virus
 nipah_virus,Nipah virus
 norovirus,Norovirus
 omsk_hemorrhagic_fever_virus,Omsk hemorrhagic fever virus
+onyong-nyong_virus,Onyong-nyong virus
+oropouche_virus,Oropouche virus
 parechovirus_A,Parechovirus A
 parechovirus_B-ljungan_virus,Parechovirus B - ljungan virus
 parechovirus_C-sebokele_virus,Parechovirus C - sebokele virus
-poliovirus,Poliovirus
 polyomavirus,Polyomavirus
+powassan_virus,Powassan virus
+punta_toro_virus,Punta toro virus
 puumala_virus,Puumala virus
 rhinovirus_A,Rhinovirus A
 rhinovirus_B,Rhinovirus B
 rhinovirus_C,Rhinovirus C
 rift_valley_fever_virus,Rift Valley fever virus
+ross_river_virus,Ross river virus
 rotavirus_A,Rotavirus A
 rotavirus_B,Rotavirus B
 rotavirus_C,Rotavirus C
-rotavirus_D,Rotavirus D
-rotavirus_F,Rotavirus F
-rotavirus_G,Rotavirus G
 rotavirus_H,Rotavirus H
-rotavirus_I,Rotavirus I
-rotavirus_J,Rotavirus J
 rsv_a_2017,RSV A
 rsv_b_2019,RSV B
 rubella_virus,Rubella virus
 sabia_virus,Sabia virus
-salivirus,Salivirus
+salivirus_A,Salivirus A
+sandfly_fever_sicilian_virus,Sandfly fever sicilian virus
 sangassou_virus,Sangassou virus
 sapovirus,Sapovirus
-sars_cov_2,SARS-CoV-2
 sars_cov,SARS-CoV
+sars_cov_2,SARS-CoV-2
+semliki_forest_virus,Semliki forest virus
 seoul_virus,Seoul virus
-simian_adenovirus,Simian adenovirus
+severe_fever_with_thrombocytopenia_syndrome_virus,Severe fever with thrombocytopenia syndrome virus
 sin_nombre_virus,Sin Nombre virus
+sindbis_virus,Sindbis virus
+snowshoe_hare_virus,Snowshoe hare virus
+sosuga_virus,Sosuga virus
+st_louis_encephalitis_virus,St louis encephalitis virus
+tacheng_tick_virus_2,Tacheng tick virus 2
+tahyna_virus,Tahyna virus
 tick-borne_encephalitis_virus,Tick-borne encephalitis virus
 torque_teno_virus,Torque teno virus
+toscana_virus,Toscana virus
 tula_virus,Tula virus
+usutu_virus,Usutu virus
+varicella-zoster_virus,Varicella-zoster virus
 variola_virus,Variola virus
-venezuelan_equine_encephalitis_virus,Venezuelan equine encephalitis virus
-western_equine_encephalomyelitis_virus,Western equine encephalitis virus
 west_nile_virus_lineage_1,West Nile virus 1
 west_nile_virus_lineage_2,West Nile virus 2
 yellow_fever_virus,Yellow fever virus
